@@ -1,0 +1,12 @@
+{
+  "name": "iti-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./Day2-Labs/Day2-Lab2/Ncli.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
